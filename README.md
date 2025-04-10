@@ -40,5 +40,3 @@ This repository contains two interrelated projects designed to streamline the st
 - High-Performance, Scalable Backend
 - Intuitive and Responsive Frontend Interface
 - Real-Time Email Notifications
-
-🚀 Contributions & Feedback are Welcome!
